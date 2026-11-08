@@ -8,7 +8,7 @@
 
 <br>
 
-[![Versión](https://img.shields.io/badge/versión-1.3.1-8c7cf7?style=for-the-badge)](../../releases/latest)
+[![Versión](https://img.shields.io/badge/versión-1.4.0-8c7cf7?style=for-the-badge)](../../releases/latest)
 [![Android](https://img.shields.io/badge/Android-7.0+-f3c0dc?style=for-the-badge&logo=android&logoColor=white)](../../releases/latest)
 [![Sin internet](https://img.shields.io/badge/funciona-sin_internet-ffd6bf?style=for-the-badge&logo=wifi&logoColor=white)](#-privacidad)
 [![Idiomas](https://img.shields.io/badge/idiomas-15-c7bbff?style=for-the-badge)](#-en-tu-idioma)
@@ -28,13 +28,15 @@
 <!--PROX-->
 <div align="center">
 
-## 🚀 Próximamente: ScanPro 1.4.0
+## 🎉 ¡ScanPro 1.4.0 ya está aquí!
 
-<img src="countdown.svg" alt="Cuenta regresiva para ScanPro 1.4.0" width="100%">
+<img src="countdown.svg" alt="ScanPro 1.4.0 ya disponible" width="100%">
 
-**Estamos en beta.** La versión 1.4.0 se publica sola aquí el **8 de noviembre de 2026**, y muy pronto llegará a **Google Play**.
+**Descárgala hoy gratis** · 📷 Escáner de Google con IA · 🎡 Ruleta VIP · 🔄 Actualizaciones automáticas · 📄 Herramientas de PDF · 🖼️ Quitar fondo · 👋 15 idiomas
 
-📷 Escáner de Google con IA · 📄 Dividir, comprimir y proteger PDF · ✍️ Firmar, tachar y sellar · 🌎 Traducir y leer en voz alta · 🗂️ Carpetas de vida con avisos de vencimiento · 💸 Gastos e inventario · 🎓 Resúmenes y tarjetas de estudio · 🖼️ Quitar el fondo y foto tipo documento · 🔐 Carpeta privada con huella · 🌍 15 idiomas · 👋 Pantalla «Hola» y guías paso a paso · ¡y más de 50 herramientas!
+<a href="../../releases/latest"><img src="https://img.shields.io/badge/⬇_Descargar_ScanPro_1.4.0-8c7cf7?style=for-the-badge" alt="Descargar ScanPro 1.4.0" height="52"></a>
+
+<sub>Instalación en 3 toques: descarga el APK → ábrelo → permite «Instalar apps desconocidas». Sin cuentas y funciona sin internet.</sub>
 
 </div>
 <!--/PROX-->
@@ -192,7 +194,7 @@ Lo encuentras en **[Actions](../../actions)** › la última compilación › **
 ## 📝 Novedades
 
 <details open>
-<summary><b>v1.4.0</b> · Firmar, editar, PDF con búsqueda y mucho más · 🔜 Próximamente (8 de noviembre)</summary>
+<summary><b>v1.4.0</b> · Firmar, editar, PDF con búsqueda y mucho más</summary>
 
 - ✍️ **Firmar y anotar** páginas: firma con el dedo, texto, resaltador y lápiz
 - 📝 **Editor de texto**: abre y guarda **Word (.docx)** o PDF

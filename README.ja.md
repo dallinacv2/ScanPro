@@ -17,11 +17,15 @@
 <!--PROX-->
 <div align="center">
 
-## 🚀 まもなく登場：ScanPro 1.4.0
+## 🎉 ScanPro 1.4.0 登場！
 
 <img src="countdown.svg" alt="ScanPro 1.4.0" width="100%">
 
-**現在ベータ版です。** バージョン 1.4.0 は **2026 年 11 月 8 日** にここで自動公開され、まもなく **Google Play** にも登場します。
+**今日すぐ無料ダウンロード** · 📷 Google の AI スキャナー · 🎡 VIP ルーレット · 🔄 自動アップデート · 📄 PDF ツール · 🖼️ 背景の削除 · 👋 15 言語
+
+<a href="../../releases/latest"><img src="https://img.shields.io/badge/⬇_ScanPro_1.4.0-8c7cf7?style=for-the-badge" alt="ScanPro 1.4.0" height="52"></a>
+
+<sub>3 ステップでインストール：APK をダウンロード → 開く →「不明なアプリのインストール」を許可。アカウント不要、オフラインで動作。</sub>
 
 </div>
 <!--/PROX-->

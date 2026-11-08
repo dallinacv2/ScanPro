@@ -17,11 +17,15 @@
 <!--PROX-->
 <div align="center">
 
-## 🚀 Sắp ra mắt: ScanPro 1.4.0
+## 🎉 ScanPro 1.4.0 đã ra mắt!
 
 <img src="countdown.svg" alt="ScanPro 1.4.0" width="100%">
 
-**Chúng tôi đang ở bản beta.** Phiên bản 1.4.0 sẽ tự động phát hành tại đây vào **ngày 8 tháng 11 năm 2026** và sắp có trên **Google Play**.
+**Tải miễn phí ngay hôm nay** · 📷 Máy quét Google AI · 🎡 Vòng quay VIP · 🔄 Tự động cập nhật · 📄 Công cụ PDF · 🖼️ Xóa nền · 👋 15 ngôn ngữ
+
+<a href="../../releases/latest"><img src="https://img.shields.io/badge/⬇_ScanPro_1.4.0-8c7cf7?style=for-the-badge" alt="ScanPro 1.4.0" height="52"></a>
+
+<sub>Cài đặt trong 3 bước: tải APK → mở ra → cho phép «Cài ứng dụng không rõ nguồn». Không cần tài khoản và hoạt động offline.</sub>
 
 </div>
 <!--/PROX-->

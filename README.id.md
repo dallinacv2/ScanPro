@@ -17,11 +17,15 @@
 <!--PROX-->
 <div align="center">
 
-## 🚀 Segera hadir: ScanPro 1.4.0
+## 🎉 ScanPro 1.4.0 sudah hadir!
 
 <img src="countdown.svg" alt="ScanPro 1.4.0" width="100%">
 
-**Kami masih beta.** Versi 1.4.0 akan terbit otomatis di sini pada **8 November 2026**, dan segera hadir di **Google Play**.
+**Unduh gratis hari ini** · 📷 Pemindai Google AI · 🎡 Roulette VIP · 🔄 Pembaruan otomatis · 📄 Alat PDF · 🖼️ Hapus latar belakang · 👋 15 bahasa
+
+<a href="../../releases/latest"><img src="https://img.shields.io/badge/⬇_ScanPro_1.4.0-8c7cf7?style=for-the-badge" alt="ScanPro 1.4.0" height="52"></a>
+
+<sub>Instalasi 3 langkah: unduh APK → buka → izinkan «Instal aplikasi tak dikenal». Tanpa akun dan berfungsi offline.</sub>
 
 </div>
 <!--/PROX-->

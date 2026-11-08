@@ -17,11 +17,15 @@
 <!--PROX-->
 <div align="center">
 
-## 🚀 Çok yakında: ScanPro 1.4.0
+## 🎉 ScanPro 1.4.0 çıktı!
 
 <img src="countdown.svg" alt="ScanPro 1.4.0" width="100%">
 
-**Beta aşamasındayız.** 1.4.0 sürümü **8 Kasım 2026**’da burada otomatik yayınlanacak ve yakında **Google Play**’de olacak.
+**Bugün ücretsiz indirin** · 📷 Yapay zekâlı Google tarayıcı · 🎡 VIP çark · 🔄 Otomatik güncellemeler · 📄 PDF araçları · 🖼️ Arka planı silme · 👋 15 dil
+
+<a href="../../releases/latest"><img src="https://img.shields.io/badge/⬇_ScanPro_1.4.0-8c7cf7?style=for-the-badge" alt="ScanPro 1.4.0" height="52"></a>
+
+<sub>3 adımda kurulum: APK'yı indirin → açın → «Bilinmeyen uygulamaları yükle» iznini verin. Hesapsız ve internetsiz çalışır.</sub>
 
 </div>
 <!--/PROX-->

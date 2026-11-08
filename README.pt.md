@@ -17,11 +17,15 @@
 <!--PROX-->
 <div align="center">
 
-## 🚀 Em breve: ScanPro 1.4.0
+## 🎉 O ScanPro 1.4.0 chegou!
 
 <img src="countdown.svg" alt="ScanPro 1.4.0" width="100%">
 
-**Estamos em beta.** A versão 1.4.0 será publicada aqui automaticamente em **8 de novembro de 2026** e chega em breve ao **Google Play**.
+**Baixe hoje grátis** · 📷 Scanner do Google com IA · 🎡 Roleta VIP · 🔄 Atualizações automáticas · 📄 Ferramentas de PDF · 🖼️ Remover fundo · 👋 15 idiomas
+
+<a href="../../releases/latest"><img src="https://img.shields.io/badge/⬇_ScanPro_1.4.0-8c7cf7?style=for-the-badge" alt="ScanPro 1.4.0" height="52"></a>
+
+<sub>Instalação em 3 toques: baixe o APK → abra → permita «Instalar apps desconhecidos». Sem contas e funciona sem internet.</sub>
 
 </div>
 <!--/PROX-->
